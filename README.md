@@ -1,5 +1,5 @@
 # CSCI335Homework-Points2
-This assigment creates a class named points2 which is a sequence of the 2D point.
+This assigment creates the class named points2 which is a sequence of the 2D point.
 
 
 To compile on terminal type: 
